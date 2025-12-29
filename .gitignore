@@ -1,0 +1,15 @@
+#Environments
+
+.venv/
+env/
+venv/
+ENV/
+
+#Charts and Outputs
+
+outputs/.png
+outputs/forecasts/.png
+
+# Ignore all files in data/raw
+data/raw/*
+data/raw/*.csv
